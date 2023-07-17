@@ -39,7 +39,7 @@ Headers:		'Montserrat', sans-serif;
   background-color: rgba(0, 0, 0, 0.8);
 }
 .navigation.show-background:hover {
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(0, 58, 50, 0.9);
 }
 .navigation.nav-btn-only .nav-btn {
   display: block;
@@ -609,7 +609,7 @@ dl dd {
 }
 
 h1 {
-  font-size: 72px;
+  font-size: 60px;
   font-weight: bold;
   margin-top: 0;
   margin-bottom: 40px;
@@ -688,13 +688,13 @@ ul.check-marks li:before {
   color: #fff;
 }
 .background-is-dark a {
-  color: #fff;
+  color: #ffffff;
 }
 .background-is-dark a:hover, .background-is-dark a:active, .background-is-dark a:focus {
-  color: #fff;
+  color: #04d7df;
 }
 .background-is-dark a.btn-default {
-  color: #000;
+  color: #006b6e;
 }
 .background-is-dark hr {
   border-top-color: #fff;
@@ -746,8 +746,8 @@ ul.check-marks li:before {
   background-color: #fff;
 }
 .background-is-dark .input-group .btn, .background-is-dark .form-group .btn {
-  background-color: #fff;
-  color: #000;
+  background-color: #01575a;
+  color: #ffffff;
 }
 .background-is-dark form.inputs-underline input[type="text"], .background-is-dark form.inputs-underline input[type="email"], .background-is-dark form.inputs-underline input[type="date"], .background-is-dark form.inputs-underline input[type="time"], .background-is-dark form.inputs-underline input[type="search"], .background-is-dark form.inputs-underline input[type="password"], .background-is-dark form.inputs-underline input[type="number"], .background-is-dark form.inputs-underline input[type="tel"], .background-is-dark form.inputs-underline textarea.form-control {
   background-color: transparent;
@@ -814,7 +814,7 @@ ul.check-marks li:before {
   background-color: #fff;
 }
 .background-wrapper .background-color.background-color-black {
-  background-color: #002a31;
+  background-color: #01575a;
 }
 
 .bg-transfer {
@@ -864,7 +864,7 @@ ul.check-marks li:before {
 .has-overlay:after {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=40);
   opacity: 0.4;
-  background-color: #000;
+  background-color: #ff0000;
   position: absolute;
   top: 0;
   left: 0;
