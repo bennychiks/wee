@@ -864,7 +864,7 @@ ul.check-marks li:before {
 .has-overlay:after {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=40);
   opacity: 0.4;
-  background-color: #ff0000;
+  background-color: #000;
   position: absolute;
   top: 0;
   left: 0;
