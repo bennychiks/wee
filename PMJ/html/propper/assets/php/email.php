@@ -12,10 +12,10 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             fclose($file);
 
             // Send an email to the site owner
-            $to = "siteowner@example.com"; // Replace with the site owner's email address
+            $to = "ireknchikpa22@gmail.com"; // Replace with the site owner's email address
             $subject = "New Subscription";
             $message = "A new email subscription has been made.\nEmail: $email";
-            $headers = "From: no-reply@example.com"; // Replace with a suitable 'From' email address
+            $headers = "From: benirek95@gmail.com"; // Replace with a suitable 'From' email address
             mail($to, $subject, $message, $headers);
 
             // Output a success message
